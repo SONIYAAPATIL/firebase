@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="title_activity_navigation_bar">Bring Your Local Shops at Your Doorsteps </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Smart Help</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="mobileno">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="Fullname">Full Name</string>
+    <string name="email">Email ID</string>
+    <string name="welcome">Welcome</string>
+    <string name="Grocery">Grocery</string>
+    <string name="Register">Register</string>
+    <string name="login">Login</string>
+    <string name="verfiyotp">Verify OTP</string>
+    <string name="otpenter">Enter OTP</string>
+    <string name="category">Categories</string>
+    <string name="cart">Cart</string>
+    <string name="enterotp">Enter Otp</string>
+    <string name="NotmemberRegister">Not a Member? Register</string>
+    <string name="forgotpass">Forgot Password</string>
+    <string name="Addtocard">Add To Cart</string>
+    <string name="freehome">Free Home Delivery</string>
+    <string name="timeout">5000</string>
+
+
+    <string name="error">You\'re not registered with us, Please contact your local cable operator to register and start paying online for services</string>
+    <string name="errortwo">Please update the mobile number for your account</string>
+
+    <string name="duplicatedata">Duplicate Data found. Please contact your cable operator</string>
+    <string name="loginerror">Login Error</string>
+    <string name="incorrectotp">Incorrect Mobile Number, Please Try again!</string>
+
+
+</resources>

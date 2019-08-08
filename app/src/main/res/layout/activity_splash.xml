@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context="com.example.tododemo.SplashActivity">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="72dp"
+            android:visibility="gone"
+            android:src="@drawable/logo3"
+            android:layout_marginBottom="24dp"
+            android:layout_gravity="center_horizontal" />
+    <!--<com.crystal.crystalpreloaders.widgets.CrystalPreloader-->
+        <!--android:layout_width="42dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:crs_pl_bg_color="#fff"-->
+        <!--app:crs_pl_fg_color="@color/orange"-->
+        <!--app:crs_pl_size="small"-->
+        <!--app:crs_pl_style="skype_balls" />-->
+    </LinearLayout>
+
+    <!--<android.support.v4.view.ViewPager-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="250dp"-->
+        <!--android:id="@+id/VPSplash">-->
+
+
+    <!--</android.support.v4.view.ViewPager>-->
+    <!--<com.wang.avi.AVLoadingIndicatorView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:indicatorColor="@color/orange"-->
+        <!--app:indicatorName="BallPulseIndicator"-->
+        <!--/>-->
+
+    <!--<com.agrawalsuneet.dotsloader.loaders.TashieLoader-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:tashieloader_animDelay="200"-->
+        <!--app:tashieloader_animDur="1000"-->
+        <!--app:tashieloader_dotsColor="@color/orange"-->
+        <!--app:tashieloader_dotsDist="5dp"-->
+        <!--app:tashieloader_dotsRadius="20dp"-->
+        <!--app:tashieloader_interpolator="@android:anim/accelerate_interpolator"-->
+        <!--app:tashieloader_noOfDots="6" />-->
+    <!--<com.github.loadingview.LoadingView-->
+        <!--android:id="@+id/loadingView"-->
+        <!--android:layout_width="72dp"-->
+        <!--android:layout_height="72dp"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginTop="24dp"-->
+        <!--app:lv_duration="30"-->
+        <!--app:lv_end_color="@color/orange"-->
+        <!--app:lv_external_radius="24dp"-->
+        <!--app:lv_internal_radius="4dp"-->
+        <!--app:lv_start_color="@color/lightRed" />-->
+
+</RelativeLayout>
